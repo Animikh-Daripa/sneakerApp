@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sneakers</string>
+    <string name="sneakership">SNEAKERSHIP</string>
+    <string name="remove">Remove</string>
+    <string name="no_item_in_cart">No Item in Cart</string>
+    <string name="cart">Cart</string>
+    <string name="order_details">Order Details</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="taxes">Taxes and Charges</string>
+    <string name="total">Total</string>
+    <string name="decrease">decrease</string>
+    <string name="qty">Qty</string>
+    <string name="display">Display</string>
+    <string name="added_to_cart">\u0020 added to cart</string>
+    <string name="price">Price : \u0020</string>
+    <string name="add_to_cart">Add to cart</string>
+
+
+</resources>
